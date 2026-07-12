@@ -29,7 +29,7 @@ A comprehensive tool to help you track and improve your health through three cor
 
 🔒 *Currently in development (Private repo)*
 
-### [DigitalPard.io](https://digitalpard.io) - Next-Gen AI Agency
+### [Pardia.ai](https://pardia.ai) - Next-Gen AI Agency
 Empowering businesses with AI-driven solutions: content creation, workflow automation, AI agents, and intelligent tools to transform how companies work.
 
 **Stack:** Django · PostgreSQL · Supabase · JavaScript
